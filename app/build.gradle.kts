@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.gumah.imanypro"
   compileSdk = 36
 
   defaultConfig {
