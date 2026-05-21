@@ -1,4 +1,4 @@
-package com.example
+package com.gumah.imanypro
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -36,18 +36,18 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.compose.runtime.CompositionLocalProvider
-import com.example.ui.theme.LocalAccentColor
-import com.example.ui.theme.LocalQuranFontFamily
-import com.example.ui.theme.LocalBackgroundOption
-import com.example.ui.components.AnimatedIslamicBackground
-import com.example.ui.components.GlassCard
-import com.example.ui.screens.*
-import com.example.ui.theme.MyApplicationTheme
-import com.example.ui.theme.EmeraldPrimary
-import com.example.ui.theme.GoldHex
-import com.example.ui.theme.TextWhite
-import com.example.ui.theme.DeepJadeBackground
-import com.example.ui.viewmodel.*
+import com.gumah.imanypro.ui.theme.LocalAccentColor
+import com.gumah.imanypro.ui.theme.LocalQuranFontFamily
+import com.gumah.imanypro.ui.theme.LocalBackgroundOption
+import com.gumah.imanypro.ui.components.AnimatedIslamicBackground
+import com.gumah.imanypro.ui.components.GlassCard
+import com.gumah.imanypro.ui.screens.*
+import com.gumah.imanypro.ui.theme.MyApplicationTheme
+import com.gumah.imanypro.ui.theme.EmeraldPrimary
+import com.gumah.imanypro.ui.theme.GoldHex
+import com.gumah.imanypro.ui.theme.TextWhite
+import com.gumah.imanypro.ui.theme.DeepJadeBackground
+import com.gumah.imanypro.ui.viewmodel.*
 
 class MainActivity : ComponentActivity() {
 
