@@ -34,7 +34,7 @@
 
         <!-- Background media player service -->
         <service
-            android:name="com.example.data.service.AudioPlaybackService"
+            android:name="com.gumah.imanypro.data.service.AudioPlaybackService"
             android:enabled="true"
             android:exported="false"
             android:foregroundServiceType="mediaPlayback" />
