@@ -1,0 +1,6 @@
+{
+  "name": "إيماني",
+  "description": "تطبيق إسلامي احترافي فاخر ومتكامل يحتوي على القرآن الكريم، التلاوات الصوتية، الأذكار، المسبحة الإلكترونية، الراديو الإسلامي ومواقيت الصلاة بتصميم عصري زجاجي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
